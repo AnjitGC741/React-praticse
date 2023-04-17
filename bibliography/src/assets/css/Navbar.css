@@ -1,0 +1,29 @@
+
+
+.navbar{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 15px 30px;
+}
+.logo{
+    font-size: 32px;
+    font-weight: 500;
+    letter-spacing: 0.8px;
+    color: rgb(71, 71, 71);
+}
+.navbar-links-section{
+    width: 40%;
+}
+.navbar-links{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.navbar-links li{
+    list-style: none;
+    font-size: 16px;
+    font-weight: 500;
+    color: rgb(71, 71, 71);
+}
