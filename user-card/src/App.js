@@ -1,5 +1,6 @@
 import "./App.css";
 import React from "react";
+import Button from './Button'
 class App extends React.Component {
   constructor() {
     super();
@@ -28,6 +29,7 @@ class App extends React.Component {
             </div>
           </div>
         </div>
+        <Button value={"Click me"}/>
       </div>
     );
   }

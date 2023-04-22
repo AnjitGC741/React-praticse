@@ -1,0 +1,26 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: "Roboto", sans-serif;
+}
+.companyName{
+  text-align: center;
+  margin-top: 130px;
+  text-transform: uppercase;
+  letter-spacing: 0.7px;
+}
+.row-data{
+    display: flex;
+    align-items: center;
+    width: 700px;
+    height: 47px;
+    background: #ffffff;
+    margin: 16px auto 0;
+}
+.checkBox{
+    margin-left: 15px;
+} 

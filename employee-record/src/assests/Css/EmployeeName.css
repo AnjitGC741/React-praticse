@@ -1,0 +1,37 @@
+.employeeName {
+  width: 130px;
+  height: 19px;
+}
+.employeeName p {
+  font-size: 16px;
+  line-height: 19px;
+  font-weight: 500;
+  letter-spacing: 0.15px;
+  color: #000000;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.employeeName-firstLetter {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-left: 22px;
+}
+.firstLetter {
+  width: 29px;
+  height: 29px;
+  background: #6200ee;
+  padding: 7px 7px 5px 10px;
+  border-radius: 50%;
+  display: flex;
+}
+.firstLetter p {
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 16px;
+  letter-spacing: 0.15px;
+  color: #ffffff;
+  width: 13px;
+  height: 23px;
+}

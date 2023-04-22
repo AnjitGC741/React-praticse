@@ -1,0 +1,27 @@
+.table-fields {
+  width: 700px;
+  height: 47px;
+  background: #ffffff;
+  margin: 20px auto 0;
+  display: flex;
+  padding: 17px 76px 17px 47px;
+}
+.table-fields p{
+    font-size: 12px;
+    line-height: 13px;
+    font-weight: 500;
+    letter-spacing: 0.15px;
+    color: #000000;
+}
+.position{
+    margin-left: 177px;
+}
+.status{
+    margin-left: 25px;
+}
+.progress{
+    margin-left: 82px;
+}
+.action{
+    margin-left: 113px;
+}
