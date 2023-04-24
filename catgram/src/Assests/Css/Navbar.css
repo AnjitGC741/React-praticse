@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.navbar{
+    width: 100%;
+   background-color: darkblue;
+}
+.navbar ul{
+    display: flex;
+    gap: 40px;
+}
+.navbar > ul >  li{
+    list-style: none;
+}
+.navbar ul > li > a{
+    color: #ffffff;
+    text-decoration: none;
+}
